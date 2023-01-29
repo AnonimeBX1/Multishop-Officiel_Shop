@@ -182,10 +182,10 @@
   }
 
 #menu{
-  margin-left: 650px;
+
   border-radius: 15px;
   float:top;
-  float: left;
+  float: center;
 }
 #menu:hover{
   color: aqua;
@@ -198,20 +198,27 @@ body{
 
   border-color:red;
 }
+
 #menu2 {
 
   background-color: rgb(24, 143, 222);
   color: rgb(1, 13, 23);
-
+  padding: 15px 32px;
+  text-align: right;
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
 }
 
 #menu2{
+margin-right: 65px;
+margin-top: -55px;
 border-radius: 15px;
-
+float:top ;
+float: right;
 }
 #menu2:hover{
 color: aqua;
 }
+
+
