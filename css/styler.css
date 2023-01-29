@@ -1,0 +1,99 @@
+
+#shop{
+  color:#47ceff;
+  
+}
+
+#ancre{
+  color: #47ceff; 
+  cursor:pointer; 
+  display: inline-block; 
+  background-color:  #1e429c; 
+  padding: 15px; 
+  display: inline-block; 
+  border-radius: 30px;
+}
+#ancre.btn:Hover{
+  background-color: rgb(39, 56, 133);
+  
+} 
+
+nav.menu-nav ul li.btn:hover a{
+
+  color:white;
+  background-color:black ;
+}
+
+body {
+  color:white;
+  font-family: Montserrat,sans-serif;
+}
+
+#srv:Hover{
+  color:whitesmoke;
+  text-decoration-color: rgb(134, 206, 206);
+}
+nav.menu ul li.btn{
+  display: inline-block;
+  margin: 21px;
+  text-decoration-line:line;
+  margin: 50px;
+  
+} 
+nav.menu ul li.btn a{
+  color: white;
+
+}
+
+nav.menu ul li.btn:hover a{
+  color:aquamarine;
+  
+}
+
+
+
+
+nav.menu-nav ul li.btn{
+    display: inline-block;
+    margin: 21px;
+    text-decoration-line:line;
+    
+  } 
+nav.menu-nav ul li.btn a{
+  color: white;
+
+}
+
+
+nav.menu-nav ul li.btn:hover a{
+  color:aquamarine;
+
+}
+
+#Title{
+  color:rgb(179, 213, 244);
+}
+
+#press{
+  color:whitesmoke;
+}
+
+#discord{
+  color:azure;
+  text-decoration: none;
+}
+
+
+
+
+nav.Tools ul li.btn a{
+  color:rgb(198, 149, 69);
+
+
+}
+
+#bk{
+  color:aqua;
+  text-decoration-line: line;
+  
+}
