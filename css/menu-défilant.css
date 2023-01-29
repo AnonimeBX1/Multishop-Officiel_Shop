@@ -182,7 +182,7 @@
   }
 
 #menu{
-
+  margin-top: -67px;
   border-radius: 15px;
   float:top;
   float: center;
@@ -220,5 +220,4 @@ float: right;
 #menu2:hover{
 color: aqua;
 }
-
 

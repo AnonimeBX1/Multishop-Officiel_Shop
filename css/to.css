@@ -1,0 +1,11 @@
+body {
+    background-color: #1111;
+    padding: 10px;
+    font-size: 20px;
+    border: 5px solid;
+    border-image: linear-gradient(to right, rgb(102, 3, 196), rgb(68, 0, 255)) 1;
+    border-radius: 30px;
+    text-align: center;
+    background-color: #111;
+  }
+  
